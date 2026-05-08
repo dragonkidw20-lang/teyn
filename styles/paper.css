@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(25, 25, 25);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.title {
+    font-weight: bolder;
+    font-size: 25px;
+}
+.r {
+    font-size: 30px;
+    font-weight: bolder;
+}
+.bb {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+    border-radius: 1500px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.s {
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    size: 5px;
+    font-size: 18px;
+}
+.img {
+    height: 50px;
+}
+.img  {
+    background-color: transparent;
+    border: 12px solid red;
+    width: 120px;
+    height: 120px;
+    border-radius: 120px;
+}

@@ -1,0 +1,73 @@
+.sub-b {
+  border: none;
+  background-color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+.b-b {
+  background-color: rgb(240, 240, 240);
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+}
+.b-c {
+  background-color: green;
+  border: none;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-weight: bold;
+  color: white;
+  font-size: large;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.pp {
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
+}
+.ppp {
+  font-weight: bold;
+  font-size: large;
+}
+.pppp {
+  size: 10px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-size: large;
+  background-color: lightskyblue;
+}
+.ppppp {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder; 
+}
+.pppppp {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightblue;
+}
+.jj {
+  font-family: Arial;
+  font-weight: bolder;
+  margin: 5px;
+}
+.jjj {
+  font-family: Arial;
+  font-weight: bolder;
+  color: white;
+}
+
